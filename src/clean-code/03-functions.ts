@@ -26,7 +26,7 @@
     }
 
     // Crea un nuevo actor
-    function CreateActor( fullName: string, birthdate: Date ): boolean {
+    function CreateActor( fullName: string ): boolean {
         
         // tarea asincrona para verificar nombre
         // ..
