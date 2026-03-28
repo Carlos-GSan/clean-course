@@ -3,7 +3,7 @@
     // No aplicando el ppio de responsabilidad única
 
     type Gender = 'M'|'F';
-
+        
     class Person {
         constructor(
             public name: string, 
