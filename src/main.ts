@@ -1,5 +1,8 @@
 import './style.css'
-import './clean-code/07-tarea';
+// import './code-smells/01-singleton.js'
+// import './solid/01-srp';
+// import './solid/02-open-close-a';
+import './solid/03-liskov-a';
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
